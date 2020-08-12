@@ -1,2 +1,3 @@
 # Cov19_Analysis
-My very first project on GitHub. A data analysis on the Cov19 data set from OWID.
+This is the First file uploaded to Github. 
+The intention was to test the uploading process and does not define my actual work.
